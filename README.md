@@ -1,2 +1,4 @@
-# rez-cppunit
-Rez build configuration for cppunit
+rez-cppunit
+===
+
+Rez build configuration for CppUnit.
